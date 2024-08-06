@@ -1,1 +1,3 @@
-# flask_energy
+```
+pip install flask sqlalchemy flask-sqlalchemy
+```
